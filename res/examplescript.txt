@@ -1,0 +1,30 @@
+
+load face.png face
+
+brighten 10 face bright-face
+
+vertical-flip face vertical-face
+
+horizontal-flip face horizontal-face
+
+blue-grayscale face blue-face
+
+red-grayscale face red-face
+
+green-grayscale bright-face green-bright-face
+
+luma-grayscale face luma-face
+
+value-grayscale face value-face
+
+intensity-grayscale face intensity-face
+
+grayscale face gray-face
+
+sepia face sepia-face
+
+blur face blurry-face
+
+sharpen face sharp-face
+
+save res/ green-bright-face
